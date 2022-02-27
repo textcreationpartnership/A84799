@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from His Excellency Sir Thomas Fairfax, and the chief commanders in the army, to the right honourable the lord major, aldermen, and common-councell of the city of London</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84799</idno>
+            <idno type="STC">Wing F186</idno>
+            <idno type="STC">ESTC R201574</idno>
+            <idno type="EEBO-CITATION">38875733</idno>
+            <idno type="OCLC">ocm 38875733</idno>
+            <idno type="VID">152262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2288:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from His Excellency Sir Thomas Fairfax, and the chief commanders in the army, to the right honourable the lord major, aldermen, and common-councell of the city of London</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border.</note>
+                  <note>Reproduction of original in: Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152262:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <p>A LETTER SENT FROM HIS EXCELLENCY <hi>SIR</hi> Thomas Fairfax, AND <hi>The chief Commanders in the Army.</hi>
+            </p>
+            <p>TO THE Right Honourable the Lord Major, Aldermen, and Common-Councell of the City of LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:152262:2"/>
+            <!-- PDF PAGE 109 -->
+            <head>For the Right Honourable the Lord Major, Aldermen, and Common-Councell of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable and Worthy Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving by our Letters and other Addreſſes, preſented by our Generall to the Honora<g ref="char:EOLhyphen"/>ble Houſe of <hi>Commons,</hi> endevoured to give ſatisfaction of the clearneſs of our juſt demands; and alſo in Papers publiſhed by us remonſtrated the grounds of our proceedings in proſecution where<g ref="char:EOLhyphen"/>of; all which having been expoſed to publick view we are confident have come to your hands, and at leaſt received a charitable conſtruction from you; The ſum of all which our deſires, as Souldiers, are no other then a deſire of ſatisfaction to our demands, as Souldiers, and repatation upon thoſe who have to the utmoſt improved all opportunities and ad<g ref="char:EOLhyphen"/>vantages by falſe ſuggeſtions, miſrepreſentations, and otherwiſe for the deſtruction of this Army, with a perpetuall blot of ignominy upon it, which we ſhould not value, if it ſingly concerned our own particulars, being ready to deny our ſelves in this, as
+<pb n="2" facs="tcp:152262:3"/>
+               <!-- PDF PAGE 110 -->wee have done in other caſes for the Kingdomes good; but under this pretence finding no leſſe in<g ref="char:EOLhyphen"/>volved in it, then the overthrow of the Priviledges both of Parliament and People, wherein rather then they ſhall far in their deſignes, or wee not receive what in the eyes of all good men is juſt, endea<g ref="char:EOLhyphen"/>voureth to engage the Kingdom in a new War, and this ſingly by thoſe, who when the truth of theſe things ſhall be made to appear, will be found the Authors of theſe evils that are feared, as having no other way to protect themſelves from queſtion and puniſhment, but by putting the Kingdom into blood, under pretences of the Honour of, and their love to the Parliament, as if that were dearer to them then us, or as if they had given greater proof of their faithfulneſſe to it then we: But we per<g ref="char:EOLhyphen"/>ceive that under theſe veiles and pretences, they ſeek to intereſt their deſign in the City of <hi>London,</hi> as if that City ought to make good their miſcarria<g ref="char:EOLhyphen"/>ges, and ſhould prefer a few ſelf-ſeeking men before the welfare of the Publick; and indeed we have found theſe men ſo active to accompliſh their de<g ref="char:EOLhyphen"/>ſigns, and to have ſuch apt inſtruments for their turn in that City, that we have cauſe to ſuſpect they may engage many therein, upon miſtakes, which are eaſily ſwallowed in times of ſuch prejudice, againſt
+<pb n="3" facs="tcp:152262:3"/>
+               <!-- PDF PAGE 110 -->men that have given (we may ſpeak it vvithout va<g ref="char:EOLhyphen"/>nity) the moſt publick teſtimony of their good af<g ref="char:EOLhyphen"/>fections to the Publick, &amp; to that City in particular.</p>
+            <p>For the thing wee inſiſt upon as Engliſh men, and ſurely our being Souldiers hath not ſtript us of that intereſt, although our malicious enemies would have it ſo; vvee deſire a ſettlement of the Peace of the Kingdome, and of the Liberties of the Subject, according to the Votes, and Declarations of Parlia<g ref="char:EOLhyphen"/>ment; vvhich before vve tooke up Armes vvere by the Parliament uſed as arguments and induce<g ref="char:EOLhyphen"/>ments to invite us and divers of our deare friends out, ſome of vvhich have loſt their lives in this Warre; vvhich being by Gods bleſſing finiſhed, vve thinke vve have as much right to demand and de<g ref="char:EOLhyphen"/>ſire to ſee a happy ſettlement, as vve have to our money, and the other common intereſt of Souldi<g ref="char:EOLhyphen"/>ers vvhich vve have inſiſted upon: We find alſo the ingenuous and honeſt people, in almoſt all the parts of the Kingdome vvhere vvee come, full of the ſenſe of ruine and miſery, if the Army ſhould bee disbanded, before the Peace of the Kingdome, and thoſe other things before mentioned, have a ful and perfect ſettlement.</p>
+            <p>We have ſaid before, and profeſſe it now, we de<g ref="char:EOLhyphen"/>ſire no alteration of the civill government.</p>
+            <p>
+               <pb n="4" facs="tcp:152262:4"/>
+               <!-- PDF PAGE 111 -->
+We deſire not to intermeddle with, or in the leaſt to interrupt the ſetling of the Presbyteriall Go<g ref="char:EOLhyphen"/>vernment: nor doe we ſeeke to open a way to li<g ref="char:EOLhyphen"/>centious libertie under pretence of obtaining caſe for tender conſciences; wee profeſſe as ever in theſe things, when the State have once made a ſettlement, we have nothing to ſay but to ſubmit or ſuffer, onely wee could wiſh that every good Citi<g ref="char:EOLhyphen"/>zen, and every man that walkes peaceably in a blameleſſe converſation, and is beneficiall to the Common-wealth, may have libertie and encourage<g ref="char:EOLhyphen"/>ment; it being according to the juſt policie of all States, even to juſtice it ſelfe.</p>
+            <p>Theſe in briefe are our deſires, and the things for which wee ſtand, beyond which we ſhall not goe, &amp; for the obtaining theſe things we are drawing neer your Citie; profeſſing ſincerely from our hearts wee intend not evill towards you, declaring with all confidence and aſſurance that if you appear not againſt us in theſe our juſt deſires to aſſiſt that wicked partie that would imbroyle us and the Kingdome, nor wee nor our Souldiers ſhall give you the leaſt offence, wee come not to doe any act to prejudice the being of Parliaments, or to the hurt of this in order to the preſent ſettlement of the Kingdome; Wee ſeeke the good of all, and we
+<pb facs="tcp:152262:5"/>
+               <!-- PDF PAGE 112 -->
+               <pb n="5" facs="tcp:152262:5"/>
+               <!-- PDF PAGE 112 -->ſhall here waite, or remove to a further diſtance there to abide, if once wee bee aſſured that a ſpeedy ſettlement of things bee in hand, untill they bee accompliſhed; which done, wee ſhall bee moſt ready either all of us, or ſo many of the Army as the Parliament ſhall thinke fit, to disband or goe for <hi>Ireland;</hi> And although you may ſuppoſe that a rich Citie may ſeeme an inticing baite to poor hungry Souldiers to venture farre to gaine the wealth thereof, yet if not provoked by you, wee doe profeſſe rather then any ſuch evill ſhould fall out the Souldiers ſhall make their way through our blood to effect it, and we can ſay this for moſt of them, for your better aſſurance, that they ſo lit<g ref="char:EOLhyphen"/>tle value their pay in compariſon of higher con<g ref="char:EOLhyphen"/>cernments to a publique good, that rather then they will be unrighted in the matter of their hone<g ref="char:EOLhyphen"/>ſty and integritie, which hath ſuffered by the men they ayme at, and deſire juſtice upon, or want the ſettlement of the kingdomes peace, and theirs with their fellow Subjects Liberties, they will loſe all; which may bee a ſtrong aſſurance to you, that it's not your wealth they ſeeke, but the things tending in common to your and their welfare that they may attaine, you ſhall doe like fellow Subjects and Brethren if that you ſollicit the Parliament for them, and on their behalfe.</p>
+            <p>
+               <pb n="6" facs="tcp:152262:6"/>
+               <!-- PDF PAGE 113 -->
+If after all this, you, or a conſiderable part of you bee ſeduced to take up Armes in oppoſition to, or hindrance of theſe our juſt undertakings; Wee hope by this brotherly premonition, to the ſinceri<g ref="char:EOLhyphen"/>tie whereof we call God to witneſſe, we have freed our ſelves from all that ruine vvhich may befall that great and populous Citie, having thereby vvaſhed our hands thereof, vvee reſt.</p>
+            <closer>
+               <signed>Your affectionate friends to ſerve you.
+<list>
+                     <item>Thomas Fairfax.</item>
+                     <item>Oliver Cromwell.</item>
+                     <item>Robert Hamond.</item>
+                     <item>Thomas Hamond.</item>
+                     <item>Hardreſſe Waller.</item>
+                     <item>Nath. Rich.</item>
+                     <item>Thomas Pride.</item>
+                     <item>Francis Ireton.</item>
+                     <item>Robert Lilborne.</item>
+                     <item>John Diſbrowe.</item>
+                     <item>Thomas Rainsborow.</item>
+                     <item>Lambert.</item>
+                     <item>Harriſon.</item>
+                  </list>
+               </signed>
+               <dateline>Royſton <date>June 10, 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
